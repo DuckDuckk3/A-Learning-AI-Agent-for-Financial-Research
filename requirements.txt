@@ -1,1 +1,7 @@
-
+pandas
+numpy
+yfinance
+scikit-learn
+matplotlib
+pyyaml
+python-dotenv
