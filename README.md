@@ -1,10 +1,10 @@
 # Learning-AI-Agent-for-Financial-Research
-A-Learning-AI-Agent-for-Financial-Research/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .env.example
+A-Learning-AI-Agent-for-Financial-Research/  
+│  
+├── README.md  
+├── LICENSE  
+├── requirements.txt  
+├── .env.example  
 ├── .gitignore
 │
 ├── Config/
