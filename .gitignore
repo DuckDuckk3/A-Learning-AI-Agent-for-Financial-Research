@@ -1,1 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
 
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+Data/Raw/*
+Data/Processed/*
+
+# Keep directory structure
+!Data/Raw/.gitkeep
+!Data/Processed/.gitkeep
+
+# Experiment outputs
+Experiments/Results/*
+Experiments/Reports/*
+
+!Experiments/Results/.gitkeep
+!Experiments/Reports/.gitkeep
